@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src=https://images.unsplash.com/photo-1566207474742-de921626ad0c?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D alt="logo" width= height= />
+  <img src="https://images.unsplash.com/photo-1566207474742-de921626ad0c?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desenvolvedor WordPress" width="100%" height="100%" />
   <h1>WordPress Codex</h1>
   <p>Configuração do WordPress para desenvolvedores avançados</p>
   <h4>
@@ -29,7 +29,9 @@
 
 ## :star2: Sobre este projeto
 
-Este projeto é dedicado a entusiastas em programação segura e performática do WordPress que buscam os melhores resultados de performance, otimização, segurança e desempenho. Ele serve para adequar sites à conformidade LGPD[^4^][8], ajuda a obter os melhores resultados nos mecanismos de busca orgânico e patrocinado[^5^][18][^6^][19][^7^][20][^8^][21][^9^][22] com o menor custo por clique. Além disso, retém os visitantes e converte consideravelmente mais leads, devido à sua alta performance e velocidade. Este projeto também auxilia visitantes em conexões lentas como 2G e 3G, aumentando significativamente os resultados digitais.
+Este projeto é dedicado a entusiastas em programação segura e performática do WordPress que buscam os melhores resultados de performance, otimização, segurança e desempenho. Ele serve para adequar sites à conformidade LGPD, ajuda a obter os melhores resultados nos mecanismos de busca orgânico e patrocinado com o menor custo por clique. Além disso, retém os visitantes e converte consideravelmente mais leads, devido à sua alta performance e velocidade. Se você é um profissional de tecnologia da informação e trabalha com pentests de vulnerabilidade e segurança, saiba que, a partir deste repositório, você terá um domínio validado em aplicações como Tenable Nessus Vulnerability Assessment e OWASP (Open Web Application Security Project), as maiores referências globais de segurança. Este projeto também auxilia visitantes em conexões lentas como 2G e 3G, aumentando significativamente os resultados digitais.
+
+Os principais benefícios de utilizar este repositório no GitHub para configurar seu WordPress é permitir a utilização de poucos plugins e temas para ter um CMS seguro e testado com 100% de qualidade nas principais ferramentas de testes do mercado.
 
 ### :dart: Características
 
@@ -37,6 +39,8 @@ Este projeto é dedicado a entusiastas em programação segura e performática d
 - **Otimização para Mecanismos de Busca**: Implementamos estratégias eficazes para obter os melhores resultados nos mecanismos de busca orgânico e patrocinado.
 - **Conformidade LGPD**: O projeto segue as diretrizes da LGPD para garantir a privacidade e segurança dos dados dos usuários.
 - **Alta Performance**: Otimizado para velocidade e performance, este projeto garante uma experiência de usuário suave mesmo em conexões lentas.
+- **Configuração de Subdomínios**: Permite a criação de subdomínios para servir conteúdos estáticos e de mídia, aumentando a segurança e a performance do site.
+- **Dependências Claras**: Este projeto depende de versões específicas de plugins, temas e softwares, garantindo compatibilidade e funcionamento correto.
 
 **Palavras-chave:** Otimizações do Oxygen Builder, Domínio sem cookies, CDN, Controle de Cache Persistente, Polítcas de cabeçalho de segurança, Segurança avançada do WordPress, Otimizações do LiteSpeed.
 
