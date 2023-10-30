@@ -1,5 +1,3 @@
-[TOC]
-
 # Como proteger os arquivos base do WordPress
 
 Os arquivos base do WordPress contêm informações importantes, como a senha do banco de dados e as chaves secretas. É importante proteger esses arquivos para evitar que eles sejam acessados por invasores.
@@ -35,7 +33,7 @@ require_once ABSPATH . 'wp-settings.php';
 
 ## Como proteger as informações do banco de dados do WordPress
 
-@see [protectDB.php](/protectDB.php)
+@see [database.php](https://github.com/euvictorhfs/wordpress-codex/blob/main/private/database.php)
 
 O arquivo `database.php` do WordPress contém informações confidenciais sobre o banco de dados do site, como o nome do banco de dados, o usuário do banco de dados e a senha do banco de dados. É importante proteger essas informações para evitar que elas sejam acessados por invasores.
 
@@ -49,7 +47,7 @@ Após seguir essas etapas, as informações do banco de dados do WordPress serã
 
 ## Como proteger as chaves secretas do WordPress
 
-@see [secretKeys.php](/secretKeys.php)
+@see [secret-keys.php](https://github.com/euvictorhfs/wordpress-codex/blob/main/private/secret-keys.php)
 
 As chaves secretas do WordPress são usadas para gerar tokens de autenticação usados para proteger o login dos usuários e outras atividades no site. É importante que essas frases sejam únicas e seguras.
 
@@ -75,7 +73,7 @@ O comando acima gerará cinco frases secretas que você pode copiar e colar no a
 
 ## Como proteger o modo de depuração do WordPress
 
-@see [debug.php](debug.php)
+@see [debug.php](https://github.com/euvictorhfs/wordpress-codex/blob/main/private/debug.php)
 
 O modo de depuração do WordPress é uma ferramenta de desenvolvimento que permite visualizar informações de depuração no site. No entanto, o modo de depuração também pode expor informações confidenciais, como senhas e chaves secretas.
 
@@ -91,7 +89,7 @@ Para proteger as variáveis de ambiente para depuração do WordPress, siga esta
 
 ## Exemplo de inserção no wp-config.php
 
-@see  [wp-config.php](../public_html/www/wp-config.php)
+@see  [wp-config.php](https://github.com/euvictorhfs/wordpress-codex/blob/main/public_html/www/wp-config.php)
 
 ```php
 // Carrega as chaves secretas
