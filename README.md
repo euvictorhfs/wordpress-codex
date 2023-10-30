@@ -3,9 +3,22 @@
   <h1>WordPress Codex</h1>
   <p>Configuração do WordPress para desenvolvedores avançados</p>
   <h4>
-    <a href=https://www.alphaville.host/>Ver Demo</a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md"> Documentação </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Reportar Bug </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Solicitar Recurso</a></h4>
-</div>
-
+    <a href=https://www.alphaville.host/>Ver Demo</a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md"> Documentação </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Reportar Bug </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Solicitar Recurso</a>
+  </h4>
+  <!-- Badges: Social buttons -->
+  <a href="https://github.com/euvictorhfs/wordpress-codex" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=euvictorhfs&message=wordpress-codex&color=blue&logo=github" alt="euvictorhfs - wordpress-codex"></a>
+  <a href="https://github.com/euvictorhfs/wordpress-codex"><img src="https://img.shields.io/github/stars/euvictorhfs/wordpress-codex?style=social" alt="stars - wordpress-codex"</a>
+  <a href="https://github.com/euvictorhfs/wordpress-codex"><img src="https://img.shields.io/github/forks/euvictorhfs/wordpress-codex?style=social" alt="forks - wordpress-codex"></a>
+  </br>
+    <!-- Badges: Repo metadata -->
+    <a href="https://github.com/euvictorhfs/wordpress-codex/releases/"><img src="https://img.shields.io/github/tag/euvictorhfs/wordpress-codex?include_prereleases=&sort=semver&color=blue" alt="GitHub tag"></a>
+<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+<a href="https://github.com/euvictorhfs/wordpress-codex/issues"><img src="https://img.shields.io/github/issues/euvictorhfs/wordpress-codex" alt="issues - wordpress-codex"></a>
+  </br>
+  <!-- Badges: Skills -->
+    <img src="https://github.com/euvictorhfs/wordpress-codex/assets/50606109/03626335-48f0-4264-af16-9b6f6df92ac2" alt="PHP>=8.1">
+  </div>
+  
 # :notebook_with_decorative_cover: Índice
 
 - [Sobre este projeto](#star2-sobre-este-projeto)
@@ -120,7 +133,8 @@ https://sitecheck.sucuri.net/
 ```
 
 ## :warning: Licença
-Veja o arquivo LICENSE.txt para mais informações.
+Released sob [MIT](/LICENSE).
+Veja o arquivo LICENSE.txt para mais informações
 
 ## :handshake: Contato
 Victor Hugo Ferreira - - victorhferreira@icloud.com
