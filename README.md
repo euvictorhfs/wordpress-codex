@@ -3,8 +3,9 @@
   <h1>WordPress Codex</h1>
   <p>Configuração do WordPress para desenvolvedores avançados</p>
   <h4>
-    <a href=https://www.alphaville.host/>Ver Demo</a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md"> Documentação </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Reportar Bug </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Solicitar Recurso</a>
+    <span> · </span><a href=https://www.alphaville.host/>Ver Demo</a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md"> Documentação </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Reportar Bug </a><span> · </span>
   </h4>
+</br>
   <!-- Badges: Social buttons -->
   <a href="https://github.com/euvictorhfs/wordpress-codex" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=euvictorhfs&message=wordpress-codex&color=blue&logo=github" alt="euvictorhfs - wordpress-codex"></a>
   <a href="https://github.com/euvictorhfs/wordpress-codex"><img src="https://img.shields.io/github/stars/euvictorhfs/wordpress-codex?style=social" alt="stars - wordpress-codex"</a>
