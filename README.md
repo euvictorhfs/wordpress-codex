@@ -33,6 +33,10 @@ Este projeto é dedicado a entusiastas em programação segura e performática d
 
 Os principais benefícios de utilizar este repositório no GitHub para configurar seu WordPress é permitir a **utilização de poucos plugins e temas** para ter um CMS seguro e testado com 100% de qualidade nas principais ferramentas de testes do mercado, como o **GT Metrix** e o **Lighthouse do Google**.
 
+### 🖥️ Servidor online
+
+Estou feliz em informar que todo o repositório do WordPress Codex foi implementado com sucesso no servidor de hospedagem. Pode ser acessado através do domínio [https://www.alphaville.host](https://www.alphaville.host). A implementação completa deste repositório no servidor de hospedagem significa que todas as suas características avançadas estão agora ao seu alcance. A Alphaville Host é uma empresa de São Paulo que oferece serviços de tecnologia e segurança, incluindo hospedagem de sites, manutenção de WordPress e auditorias de conformidade.
+
 ### :dart: Características
 
 - **Programação PHP Avançada**: Este projeto utiliza técnicas avançadas de programação PHP para garantir a melhor performance e segurança.
