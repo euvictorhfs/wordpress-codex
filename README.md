@@ -1,23 +1,65 @@
 <div align='center'>
-  <img src="https://images.unsplash.com/photo-1566207474742-de921626ad0c?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Desenvolvedor WordPress" width="100%" height="100%" />
+  <!-- TOP BANNER -->
+  <img
+    alt="Desenvolvedor WordPress"
+    src="https://images.unsplash.com/photo-1566207474742-de921626ad0c?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    width="100%"
+    height="100%" />
+  <!-- TITLE && SUBTITLE -->
   <h1>WordPress Codex</h1>
-  <p>Configuração do WordPress para desenvolvedores avançados</p>
+  <p>Configuração do WordPress para desenvolvedores avançados. Este é o meu trabalho em progresso para melhorar continuamente minhas habilidades e conhecimentos com o WordPress.</p>
+  <!-- REF. LINKS -->
   <h4>
-    <span> · </span><a href=https://www.alphaville.host/>Ver Demo</a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md"> Documentação </a><span> · </span><a href="https://github.com/EuVictorhfs/WordPress-Codex/issues"> Reportar Bug </a><span> · </span>
+    <a href=https://www.alphaville.host/>
+      Ver Demo
+    </a><span> · </span>
+    <a href="https://github.com/EuVictorhfs/WordPress-Codex/blob/master/README.md">
+      Documentação
+    </a><span> · </span>
+    <a href="https://github.com/EuVictorhfs/WordPress-Codex/issues">
+      Reportar Bug 
+    </a>
   </h4>
-</br>
-  <!-- Badges: Social buttons -->
-  <a href="https://github.com/euvictorhfs/wordpress-codex" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=euvictorhfs&message=wordpress-codex&color=blue&logo=github" alt="euvictorhfs - wordpress-codex"></a>
-  <a href="https://github.com/euvictorhfs/wordpress-codex"><img src="https://img.shields.io/github/stars/euvictorhfs/wordpress-codex?style=social" alt="stars - wordpress-codex"</a>
-  <a href="https://github.com/euvictorhfs/wordpress-codex"><img src="https://img.shields.io/github/forks/euvictorhfs/wordpress-codex?style=social" alt="forks - wordpress-codex"></a>
-  </br>
-    <!-- Badges: Repo metadata -->
-    <a href="https://github.com/euvictorhfs/wordpress-codex/releases/"><img src="https://img.shields.io/github/tag/euvictorhfs/wordpress-codex?include_prereleases=&sort=semver&color=blue" alt="GitHub tag"></a>
-<a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-<a href="https://github.com/euvictorhfs/wordpress-codex/issues"><img src="https://img.shields.io/github/issues/euvictorhfs/wordpress-codex" alt="issues - wordpress-codex"></a>
-  </br>
-  <!-- Badges: Skills -->
-    <img src="https://github.com/euvictorhfs/wordpress-codex/assets/50606109/03626335-48f0-4264-af16-9b6f6df92ac2" alt="PHP>=8.1">
+  <!-- BADGES: SOCIAL BUTTONS -->
+  <br>
+  <a title="Acesse o repositório do GitHub"
+    href="https://github.com/euvictorhfs/wordpress-codex">
+    <img
+      alt="@EuVictorhfs - WordPress Codex"
+      src="https://img.shields.io/static/v1?label=euvictorhfs&message=wordpress-codex&color=blue&logo=github" />
+  </a>
+  <a href="https://github.com/euvictorhfs/wordpress-codex">
+    <img
+      alt="Stars - WordPress Codex"
+      src="https://img.shields.io/github/stars/euvictorhfs/wordpress-codex?style=social" />
+  </a>
+    <a href="https://github.com/euvictorhfs/wordpress-codex">
+      <img
+        alt="Forks - WordPress Codex"
+        src="https://img.shields.io/github/forks/euvictorhfs/wordpress-codex?style=social" />
+    </a>
+  <!-- BADGES: REPO METADATA -->
+  <br>
+    <a href="https://github.com/euvictorhfs/wordpress-codex/releases/">
+      <img
+        alt="GitHub Tag"
+        src="https://img.shields.io/github/tag/euvictorhfs/wordpress-codex?include_prereleases=&sort=semver&color=blue" />
+    </a>
+    <a href="#license">
+      <img
+        alt="GitHub License"
+        src="https://img.shields.io/github/license/euvictorhfs/wordpress-codex" />
+    </a>
+  <a href="https://github.com/euvictorhfs/wordpress-codex/issues">
+    <img
+      alt="issues - wordpress-codex"
+      src="https://img.shields.io/github/issues/euvictorhfs/wordpress-codex" />
+  </a>
+  <!-- BADGES: SKILLS -->
+  <br>
+  <img
+    alt=""
+    src="https://img.shields.io/github/repo-size/euvictorhfs/wordpress-codex" />
   </div>
   
 # :notebook_with_decorative_cover: Índice
